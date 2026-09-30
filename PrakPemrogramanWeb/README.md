@@ -14,4 +14,5 @@
 - Device Name:	DESKTOP-68SI4BR
 - Sistem Operasi: Window 11
 - Kapasitas RAM: 16 GB
--
+- Versi Node Js: 24.21.0
+- Versi Git: 2.56.0
