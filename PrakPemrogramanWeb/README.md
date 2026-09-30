@@ -9,3 +9,9 @@
 - Instalasi & Verifikasi Tools (VS Code, Node.js, Laragon, Git).
 - Uji coba Laragon MySQL berjalan pada Port 3306.
 - Konfigurasi identitas Git global.
+---
+## Spesifikasi Perangkat
+- Device Name:	DESKTOP-68SI4BR
+- Sistem Operasi: Window 11
+- Kapasitas RAM: 16 GB
+-
