@@ -11,8 +11,8 @@
 - Konfigurasi identitas Git global.
 ---
 ## Spesifikasi Perangkat
-- Device Name:	DESKTOP-68SI4BR
-- Sistem Operasi: Window 11
+- Device Name:	RDFD
+- Sistem Operasi: Windows 10
 - Kapasitas RAM: 16 GB
 - Versi Node Js: 24.21.0
 - Versi Git: 2.56.0
